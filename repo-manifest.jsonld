@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-sphinx-theme/commit/cb7cc4bddb876e54f71b19cebb8f3a590d6b51fd",
       "git:hexsha": "cb7cc4bddb876e54f71b19cebb8f3a590d6b51fd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T21:52:59.038968+00:00"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-sphinx-theme/commit/c5ce66aadc8f910c24f54bf0d172798c237a67eb",
